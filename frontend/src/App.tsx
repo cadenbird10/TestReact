@@ -11,7 +11,7 @@ const bandNames = [
     members: "Ed Roland, Dean, David, Ross, Shane", 
     formed: 1992},
   {name: "Traffic", 
-    members: "Apple, Bean, Jim",
+    members: "Apple, Bean, Jim, Peach",
     formed: 1967
   }
 ];
